@@ -43,9 +43,9 @@ My passion lies in empowering decision-makers through clear, data-driven insight
 
 <span style="font-size: 1.1em; vertical-align: middle;">
     🎯 For PowerPoint Presentations, visit
-  </span>
+ </span>
   <a href="https://drive.google.com/drive/folders/1pTcHuFFi2igVriuUGWpdkzOSP80Qhlpj?usp=drive_link" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" align = "absmiddle"/>
   </a>
 
 ---
