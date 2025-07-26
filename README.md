@@ -27,6 +27,10 @@ My passion lies in empowering decision-makers through clear, data-driven insight
   - Designed a 4-page Power BI dashboard covering Dec 2009 to Dec 2011 transactions, merging two annual sheets into a unified star schema with a calendar dimension.
   - Standardized data by filtering cancellations, handling missing CustomerIDs, and removing negative quantity and price values.  
   - Built an Executive Summary page with KPI cards, Top 5 Customers & SKUs, a 2010 vs 2011 performance comparison, and regional flowchart-based revenue decompositions.
+  
+    <a href = "https://github.com/RishabhSinghal04/Online_Retial_2009-2011">
+    <img src="https://github.com/RishabhSinghal04/Online_Retial_2009-2011/blob/main/images/report.png" alt="Project Report" width="500"/>
+    </a>
 
 
 - [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
