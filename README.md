@@ -22,19 +22,29 @@ My passion lies in empowering decision-makers through clear, data-driven insight
 
 ## 🗂️ My Work Collection
 
+- [**Global Superstore**](https://github.com/RishabhSinghal04/Global_Superstore)
+  - 📊 Designed a dynamic Power BI report with KPI dashboards, product analysis, geographic mapping, and hierarchical drill-downs.
+  - 🧹 Performed extensive data cleaning and transformation, including city–state validation and profit/loss flagging.
+  - 🧠 Developed robust DAX measures and PostgreSQL materialized views to calculate margins, order metrics, and shipping performance.
+  - 🚀 Delivered a star-schema model and interactive visuals to support executive decision-making and operational insights.
+ 
+    <a href = "https://github.com/RishabhSinghal04/Global_Superstore">
+    <img src="https://github.com/RishabhSinghal04/Global_Superstore/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
+    </a>
+
 - [**Online Retail 2009-2011**](https://github.com/RishabhSinghal04/Online_Retial_2009-2011)  
-  - Interactive dashboard with dynamic filters, KPIs, and visuals.
-  - Designed a 4-page Power BI dashboard covering Dec 2009 to Dec 2011 transactions, merging two annual sheets into a unified star schema with a calendar dimension.
-  - Standardized data by filtering cancellations, handling missing CustomerIDs, and removing negative quantity and price values.  
-  - Built an Executive Summary page with KPI cards, Top 5 Customers & SKUs, a 2010 vs 2011 performance comparison, and regional flowchart-based revenue decompositions.
+  - 🖥️ Interactive dashboard with dynamic filters, KPI cards, and visuals
+  - 📊 Designed a 4-page Power BI report covering Dec 2009–Dec 2011, merging two annual sheets into a unified star schema with a calendar dimension
+  - 🧹 Standardized data by filtering cancellations, handling missing CustomerIDs, and removing negative quantity and price values
+  - 📋 Built an Executive Summary page with KPI cards, Top 5 Customers & SKUs, a 2010 vs 2011 performance comparison, and regional flowchart-based revenue decompositions
   
     <a href = "https://github.com/RishabhSinghal04/Online_Retial_2009-2011">
-    <img src="https://github.com/RishabhSinghal04/Online_Retial_2009-2011/blob/main/images/report.png" alt="Project Report" width="500"/>
+    <img src="https://github.com/RishabhSinghal04/Online_Retial_2009-2011/blob/main/images/report.png" alt="Project Report Overview" width="500"/>
     </a>
 
 
 - [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
-  More than 100 pattern problems
+  - More than 100 pattern problems
 
 
 - [**C++ Programs**](https://github.com/RishabhSinghal04/C_Plus_Plus)  
