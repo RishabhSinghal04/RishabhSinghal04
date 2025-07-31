@@ -22,7 +22,7 @@ My passion lies in empowering decision-makers through clear, data-driven insight
 
 ## 🗂️ My Work Collection
 
-- [**Global Superstore**](https://github.com/RishabhSinghal04/Global_Superstore)
+- ### [**Global Superstore**](https://github.com/RishabhSinghal04/Global_Superstore)
   - 📊 Designed a dynamic Power BI report with KPI dashboards, product analysis, geographic mapping, and hierarchical drill-downs.
   - 🧹 Performed extensive data cleaning and transformation, including city–state validation and profit/loss flagging.
   - 🧠 Developed robust DAX measures and PostgreSQL materialized views to calculate margins, order metrics, and shipping performance.
@@ -32,7 +32,7 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     <img src="https://github.com/RishabhSinghal04/Global_Superstore/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
     </a>
 
-- [**Online Retail 2009-2011**](https://github.com/RishabhSinghal04/Online_Retial_2009-2011)  
+- ### [**Online Retail 2009-2011**](https://github.com/RishabhSinghal04/Online_Retial_2009-2011)  
   - 🖥️ Interactive dashboard with dynamic filters, KPI cards, and visuals
   - 📊 Designed a 4-page Power BI report covering Dec 2009–Dec 2011, merging two annual sheets into a unified star schema with a calendar dimension
   - 🧹 Standardized data by filtering cancellations, handling missing CustomerIDs, and removing negative quantity and price values
@@ -43,19 +43,19 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     </a>
 
 
-- [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
+- ### [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
   - More than 100 pattern problems
 
 
-- [**C++ Programs**](https://github.com/RishabhSinghal04/C_Plus_Plus)  
+- ### [**C++ Programs**](https://github.com/RishabhSinghal04/C_Plus_Plus)  
+  - C++ concepts and practice problems.
 
-
-- [**Data Structures & Algorithms**](https://github.com/RishabhSinghal04/Data_Structures_and_Algorithms)  
-
-
+- ### [**Data Structures & Algorithms**](https://github.com/RishabhSinghal04/Data_Structures_and_Algorithms)  
+  - Practice Problems
   
+&nbsp;
 
-<span style="font-size: 1.1em; vertical-align: middle;">
+<span style="font-size: 1.2em; vertical-align: middle;">
     🎯 For PowerPoint Presentations, visit
  </span>
   <a href="https://drive.google.com/drive/folders/1pTcHuFFi2igVriuUGWpdkzOSP80Qhlpj?usp=drive_link" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
