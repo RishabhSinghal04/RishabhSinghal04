@@ -38,7 +38,7 @@ My passion lies in empowering decision-makers through clear, data-driven insight
   - 🧹 Standardized data by filtering cancellations, handling missing CustomerIDs, and removing negative quantity and price values
   - 📋 Built an Executive Summary page with KPI cards, Top 5 Customers & SKUs, a 2010 vs 2011 performance comparison, and regional flowchart-based revenue decompositions
   
-    <a href = "https://github.com/RishabhSinghal04/Online_Retial_2009-2011">
+    <a href = "https://github.com/RishabhSinghal04/Kickstarter_Projects_Analysis">
     <img src="https://github.com/RishabhSinghal04/Online_Retial_2009-2011/blob/main/images/report.png" alt="Project Report Overview" width="500"/>
     </a>
 
