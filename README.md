@@ -32,14 +32,14 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     <img src="https://github.com/RishabhSinghal04/Global_Superstore/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
     </a>
 
-- ### [**Online Retail 2009-2011**](https://github.com/RishabhSinghal04/Online_Retial_2009-2011)  
+- ### [**Online Retail 2009-2011**](https://github.com/RishabhSinghal04/Online_Retail_2009-2011)  
   - 🖥️ Interactive dashboard with dynamic filters, KPI cards, and visuals
   - 📊 Designed a 4-page Power BI report covering Dec 2009–Dec 2011, merging two annual sheets into a unified star schema with a calendar dimension
   - 🧹 Standardized data by filtering cancellations, handling missing CustomerIDs, and removing negative quantity and price values
   - 📋 Built an Executive Summary page with KPI cards, Top 5 Customers & SKUs, a 2010 vs 2011 performance comparison, and regional flowchart-based revenue decompositions
   
     <a href = "https://github.com/RishabhSinghal04/Online_Retail_2009-2011">
-    <img src="https://github.com/RishabhSinghal04/Online_Retial_2009-2011/blob/main/images/report.png" alt="Project Report Overview" width="500"/>
+    <img src="https://github.com/RishabhSinghal04/Online_Retail_2009-2011/blob/main/images/report.png" alt="Project Report Overview" width="500"/>
     </a>
 
 - ### [**Kickstarter Projects**](https://github.com/RishabhSinghal04/Kickstarter_Projects_Analysis)
