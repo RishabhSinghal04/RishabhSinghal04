@@ -42,7 +42,7 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     <img src="https://github.com/RishabhSinghal04/Online_Retail_2009-2011/blob/main/images/report.png" alt="Project Report Overview" width="500"/>
     </a>
 
-- ### [**Kickstarter Projects**](https://github.com/RishabhSinghal04/Kickstarter_Projects_Analysis)
+- ### [**Kickstarter Projects Analysis**](https://github.com/RishabhSinghal04/Kickstarter_Projects_Analysis)
   - 🔄 Cleaned and enriched 370K+ Kickstarter records by standardizing title, and handling erroneous entries.
   - 🔍 Engineered key features—funding ratios, campaign durations, backer acceleration curves, and categorical flags—to capture early momentum and project dynamics.
   - 📊 Built an interactive Power BI dashboard with drill-down filters for year, month, category, and country to visualize launch trends, funding volumes, geographic hotspots, and top viral projects.
