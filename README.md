@@ -23,7 +23,7 @@ My passion lies in empowering decision-makers through clear, data-driven insight
 ## 🗂️ My Work Collection
 
 - ### [**Global Superstore**](https://github.com/RishabhSinghal04/Global_Superstore)
-  - 📊 Designed a dynamic Power BI report with Executive Summary, Quarterly Insights, Regional Profit and Loss, Sales Breakdown and more.
+  - 📊 Designed a Power BI report for executive decision-making, synthesizing high-level KPIs, quarterly trend analyses, regional profit and loss breakdowns, product-level sales metrics, customer segmentation, and more.
   - 🧹 Performed extensive data cleaning and transformation, including city–state validation and profit/loss flagging.
   - 🧠 Developed robust DAX measures and PostgreSQL materialized views to calculate margins, order metrics, and shipping performance.
   - 🚀 Delivered a star-schema model and interactive visuals to support executive decision-making and operational insights.
