@@ -33,10 +33,10 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     </a>
 
 - ### [**Online Retail 2009-2011**](https://github.com/RishabhSinghal04/Online_Retail_2009-2011)  
-  - 🖥️ Interactive dashboard with dynamic filters, KPI cards, and visuals.
-  - 📊 Designed a 4-page Power BI report covering Dec 2009–Dec 2011, merging two annual sheets into a unified star schema with a date dimension table.
-  - 🧹 Standardized data by filtering cancellations, handling missing CustomerIDs, and removing negative quantity and price values.
-  - 📋 Built an Executive Summary page with KPI cards, Top 5 Customers & SKUs, a 2010 vs 2011 performance comparison, and regional flowchart-based revenue decompositions.
+  - 📂 Consolidated two Excel worksheets (Dec 2009 – Dec 2011) into a unified star schema within Power BI, incorporating a dedicated date dimension table for robust time‑series analysis.
+  - 🧹 Cleaned and standardized data by excluding cancellations, resolving missing Customer IDs, and removing negative quantity or price entries to ensure data accuracy.
+  - 📊 Integrated dynamic filters, KPI cards, and interactive visuals to enable flexible exploration of trends, performance metrics, and dimensional breakdowns.
+  - 🗺️ Designed an Executive Summary dashboard with KPIs, Top 5 Customers & SKUs, 2010‑vs‑2011 performance comparison, and region‑wise revenue decomposition using flowchart‑style visuals.
   
     <a href = "https://github.com/RishabhSinghal04/Online_Retail_2009-2011">
     <img src="https://github.com/RishabhSinghal04/Online_Retail_2009-2011/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
@@ -45,7 +45,7 @@ My passion lies in empowering decision-makers through clear, data-driven insight
 - ### [**Kickstarter Projects Analysis**](https://github.com/RishabhSinghal04/Kickstarter_Projects_Analysis)
   - 🔄 Cleaned and enriched 370K+ Kickstarter records by standardizing title, and handling erroneous entries.
   - 🔍 Engineered key features—funding ratios, campaign durations, backer acceleration curves, and categorical flags—to capture early momentum and project dynamics.
-  - 📊 Built an interactive Power BI dashboard with drill-down filters for year, month, category, and country to visualize launch trends, funding volumes, geographic hotspots, and top viral projects.
+  - 📊 Built an interactive Power BI report with drill-down filters for year, month, category, and country to visualize launch trends, funding volumes, geographic hotspots, and top viral projects.
   - 💡 Delivered strategic, data-driven recommendations on optimal target geographies, high-impact niches, and goal-setting thresholds.
 
     <a href = "https://github.com/RishabhSinghal04/Kickstarter_Projects_Analysis">
