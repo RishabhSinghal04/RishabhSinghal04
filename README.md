@@ -23,20 +23,20 @@ My passion lies in empowering decision-makers through clear, data-driven insight
 ## 🗂️ My Work Collection
 
 - ### [**Global Superstore**](https://github.com/RishabhSinghal04/Global_Superstore)
-  - 📊 Designed a Power BI report for executive decision-making, synthesizing high-level KPIs, quarterly trend analyses, regional profit and loss breakdowns, product-level sales metrics, customer segmentation, and more.
-  - 🧹 Performed extensive data cleaning and transformation, including city–state validation and profit/loss flagging.
-  - 🧠 Developed robust DAX measures and PostgreSQL materialized views to calculate margins, order metrics, and shipping performance.
-  - 🚀 Delivered a star-schema model and interactive visuals to support executive decision-making and operational insights.
+    - 📊 Designed and implemented an advanced Power BI reporting solution to support executive‑level decision‑making, integrating high‑level KPIs, quarterly trend analyses, regional profit and loss statements, and product‑level sales metrics.
+  - 🧹 Executed comprehensive data cleansing and transformation workflows, including city–state standardization and automated profit/loss categorization to ensure data integrity.
+  - 🧠 Engineered robust DAX measures and optimized PostgreSQL materialized views for accurate margin calculations, order performance tracking, and shipping efficiency analysis.
+  - 🚀 Delivered a scalable star‑schema data model and interactive visual dashboards, enabling data‑driven strategic and operational insights across leadership teams.
  
     <a href = "https://github.com/RishabhSinghal04/Global_Superstore">
     <img src="https://github.com/RishabhSinghal04/Global_Superstore/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
     </a>
 
 - ### [**Online Retail 2009-2011**](https://github.com/RishabhSinghal04/Online_Retail_2009-2011)  
-  - 📂 Consolidated two Excel worksheets (Dec 2009 – Dec 2011) into a unified star schema within Power BI, incorporating a dedicated date dimension table for robust time‑series analysis.
-  - 🧹 Cleaned and standardized data by excluding cancellations, resolving missing Customer IDs, and removing negative quantity or price entries to ensure data accuracy.
-  - 📊 Integrated dynamic filters, KPI cards, and interactive visuals to enable flexible exploration of trends, performance metrics, and dimensional breakdowns.
-  - 🗺️ Designed an Executive Summary dashboard with KPIs, Top 5 Customers & SKUs, 2010‑vs‑2011 performance comparison, and region‑wise revenue decomposition using flowchart‑style visuals.
+  - 📊 Comprehensive Retail Analysis - Designed an interactive Power BI report using the Online Retail II dataset (1.07 M transactions, Dec 2009- Dec 2011) to track year-over-year trends, product performance, and regional revenue distribution.
+  - 🧹 Rigorous Data Cleaning in Microsoft Excel - Utilized Excel's Power Query to merge datasets, remove returns/cancellations, handle missing IDs and descriptions, and standardize country names, ensuring a high-quality, analysis-ready dataset.
+  - 📑 Multi-Page, Insight-Driven Reporting - Delivered four data-rich report pages including executive KPIs, 2010 vs 2011 revenue comparison, regional drill-downs, and geographic visualizations with bubble and tree maps.
+  - 📈 Actionable Business Insights - Uncovered seasonal peaks, top products, and high-growth markets (e.g., Australia +332%), while identifying underperforming regions to inform inventory planning and targeted strategies.
   
     <a href = "https://github.com/RishabhSinghal04/Online_Retail_2009-2011">
     <img src="https://github.com/RishabhSinghal04/Online_Retail_2009-2011/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
