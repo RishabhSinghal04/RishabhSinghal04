@@ -52,6 +52,16 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     <img src="https://github.com/RishabhSinghal04/Kickstarter_Projects_Analysis/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
     </a>
 
+- ### [**International Football Matches Analysis**](https://github.com/RishabhSinghal04/International_Football_Matches_Analysis)
+  - 🗄️ Data Ingestion & SQL Analysis – Imported raw international football datasets into PostgreSQL and executed targeted analytical queries to derive meaningful performance insights.
+  - 📥 Power Query Data Preparation – Imported results.csv into Power Query, converted the date column from text to date type, and created a unique match_id column for reliable identification.
+  - 🚀 Data Modeling in Power BI – Developed a star schema, created calculated measures, and established relationships for efficient, scalable reporting.
+  - 📊 Interactive Dashboard Development – Designed a multi‑page Power BI report to visualize trends, scoring patterns, era‑wise dominance, and hosting impact.
+
+    <a href = "https://github.com/RishabhSinghal04/International_Football_Matches_Analysis">
+    <img src="https://github.com/RishabhSinghal04/International_Football_Matches_Analysis/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
+    </a>
+
 - ### [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
   - More than 100 pattern problems
 
