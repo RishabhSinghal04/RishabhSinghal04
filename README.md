@@ -62,6 +62,16 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     <img src="https://github.com/RishabhSinghal04/International_Football_Matches_Analysis/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
     </a>
 
+- ### [**IMDb Movies Analysis**](https://github.com/RishabhSinghal04/IMDb_Movies_Analysis)
+- 🧹 Data Cleaning & Preparation – Standardized and refined the raw IMDB dataset in Excel by removing duplicates, correcting inconsistencies, and formatting values for analysis.
+- 🗄️ Database Analysis – Loaded the cleaned data into PostgreSQL and executed SQL queries to calculate profitability, identify top‑rated films, and group IMDb scores into defined ranges.
+- 📊 Interactive Visualization – Designed a multi‑page Power BI report with KPIs, genre breakdowns, rating distributions, and dynamic slicers for year, genre, and country.
+- 📈 Insight Generation – Delivered clear, data‑driven findings on financial performance, genre trends, and audience ratings to support informed decision‑making.
+
+  <a href = "https://github.com/RishabhSinghal04/IMDb_Movies_Analysis">
+  <img src="https://github.com/RishabhSinghal04/IMDb_Movies_Analysis/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
+  </a>
+
 - ### [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
   - More than 100 pattern problems
 
