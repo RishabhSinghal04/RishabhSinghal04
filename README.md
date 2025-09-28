@@ -94,7 +94,6 @@ My passion lies in empowering decision-makers through clear, data-driven insight
   
 &nbsp;
 
-&emsp;
 <span style="font-size: 1.2em; vertical-align: middle;">
     🎯 For Microsoft PowerPoint Presentations, visit
  </span>
