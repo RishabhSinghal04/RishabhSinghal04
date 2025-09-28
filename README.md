@@ -73,18 +73,30 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     </a>  
 
 - ### [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
-  - More than 100 pattern problems
+  - 🎨 225+ Pattern Problems showcasing creativity with loops, recursion, and nested structures.
+  - 🔢 500+ C Programs covering fundamentals, mathematical utilities, and logical problem‑solving.
+  - 🧩 Implementations of functions, recursion, pointers, arrays, structures, and enumerations.
+  - 🚀 Designed to build programming foundations, algorithmic thinking, and coding efficiency
+
 
 - ### [**C++ Programs**](https://github.com/RishabhSinghal04/C_Plus_Plus)  
-  - C++ concepts and practice problems.
+  - ⚡ Comprehensive C++ practice repository covering fundamentals through advanced concepts.
+  - 🏗️ Includes OOP principles, operator overloading, inheritance, polymorphism, and exception handling.
+  - 📦 Explores templates, smart pointers, move semantics, STL containers, iterators, and algorithms.
+  - 🚀 Designed to strengthen modern C++ proficiency, problem‑solving skills, and clean coding practices.
+
 
 - ### [**Data Structures & Algorithms**](https://github.com/RishabhSinghal04/Data_Structures_and_Algorithms)  
-  - Practice Problems
+  - 📚 Comprehensive collection of DSA practice problems implemented in C++.
+  - 🔗 Covers arrays, linked lists, stacks, queues, trees, graphs, heaps, hashing, and strings.
+  - 🧮 Includes recursion, backtracking, greedy algorithms, and matrix-based problem solving.
+  - 🚀 Designed to strengthen algorithmic thinking, data handling efficiency, and coding proficiency.
   
 &nbsp;
 
+&emsp;
 <span style="font-size: 1.2em; vertical-align: middle;">
-    🎯 For PowerPoint Presentations, visit
+    🎯 For Microsoft PowerPoint Presentations, visit
  </span>
   <a href="https://drive.google.com/drive/folders/1pTcHuFFi2igVriuUGWpdkzOSP80Qhlpj?usp=drive_link" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" align = "absmiddle"/>
