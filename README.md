@@ -72,6 +72,14 @@ My passion lies in empowering decision-makers through clear, data-driven insight
     <img src="https://github.com/RishabhSinghal04/IMDb_Movies_Analysis/blob/main/images/report_pages.png" alt="Project Report Overview" width="500"/>
     </a>  
 
+
+- ### [**Streaming Video Subscriptions Analysis**](https://github.com/RishabhSinghal04/Streaming_Video_Subscriptions_Analysis)
+  - 📊 Cohort & Churn Analysis – Identified subscriber retention, churn, and rejoin patterns to evaluate customer health over time.
+  - 🧹 Data Cleaning & Preparation – Standardized raw subscription data, handled missing values, and ensured analysis‑ready datasets for accuracy.
+  - 💰 Revenue Insights – Calculated Monthly Recurring Revenue (MRR) and customer lifetime value to forecast growth potential.
+  - 🛠️ Tech Stack Implementation – Leveraged Python, Pandas, and NumPy to build scalable workflows for subscription analytics.
+
+
 - ### [**C Programs**](https://github.com/RishabhSinghal04/C_Solved_Problems)  
   - 🎨 225+ Pattern Problems showcasing creativity with loops, recursion, and nested structures.
   - 🔢 500+ C Programs covering fundamentals, mathematical utilities, and logical problem‑solving.
