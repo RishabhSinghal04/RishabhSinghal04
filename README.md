@@ -130,7 +130,7 @@ For Microsoft PowerPoint Presentations, visit
 <span style = "font-size: 1.2em; vertical-align: middle;"> and </span> &nbsp;
 <img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" width="24" align="absmiddle"/> 
 <img src="https://img.shields.io/static/v1?label=&message=Claude&color=FF6F3C&style=for-the-badge&messageColor=ffffff" align="absmiddle"/>
-<span style="font-size: 1.2em; vertical-align: middle;"> &nbsp; for AI Productivity Tool </span>
+<span style="font-size: 1.2em; vertical-align: middle;"> &nbsp; for AI-assisted productivity </span>
 
 ---
 
