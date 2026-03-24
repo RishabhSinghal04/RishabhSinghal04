@@ -19,6 +19,17 @@
     <img src="https://github.com/RishabhSinghal04/Dungeon_Explorer/blob/main/img/combat_and_inventory.png" alt="Combat and Inventory" width="500"/>
     </a>
 
+- ### [**Contact Book**](https://github.com/RishabhSinghal04/Contact_Book)
+  - 🏗️ Clean Architecture & SOLID Principles - 5-layer separation with dependency injection and interface-based design
+  - 🧪 Test-Driven Development - 90%+ pytest coverage with fixtures, parametrized tests, and CI/CD ready structure  
+  - 🔧 Modern Python Stack - Dataclasses, type hints, decorators, and design patterns (Repository, Factory, Strategy)
+  - 📚 Professional Standards - Comprehensive documentation, logging, error handling, and extensible architecture
+  - 🎨 Cross-Platform GUI - Kivy framework with modular dialogs, widgets, and screens following SRP
+
+    <a href="https://github.com/RishabhSinghal04/Contact_Book">
+    <img src="https://github.com/RishabhSinghal04/Contact_Book/blob/main/img/contact_book.png" alt="Contact Book" width = "500">
+    </a>
+    
 - ### [**Tic Tac Toe CLI**](https://github.com/RishabhSinghal04/Tic_Tac_Toe_CLI)
   - 🎮  Two-player mode: Play against another human in the same terminal.
   - 🤖 AI opponent: Challenge a computer-controlled player with basic decision-making.
