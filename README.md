@@ -45,6 +45,29 @@
 ---
 
 <span style="font-size: 1em; vertical-align: middle;"> Using </span>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" align="absmiddle"/>
+<img src="https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=for-the-badge&messageColor=ffffff" align="absmiddle"/> &nbsp; 
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="24" align="absmiddle"/>
+<img src="https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=for-the-badge&messageColor=ffffff" align="absmiddle"/> &nbsp; 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" align="absmiddle"/>
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&messageColor=000000" align="absmiddle"/>
+
+
+- ### [**Cosmos Craft**](https://github.com/RishabhSinghal04/Cosmos_Craft)
+  <span style="font-size: 1em; vertical-align: middle;"> Website: *https://rishabhsinghal04.github.io/Cosmos_Craft/* </span>
+
+  - 🌌 Cosmos Craft is a fully responsive static website built with pure HTML, CSS, and JavaScript.
+  - 📱 Responsive Navigation System - Features a sticky navbar with a hamburger menu for mobile, a collapsible centre menu, an animated theme toggle, and an expanding search bar with live DOM-based filtering across gallery items.
+  - 🖼️ Interactive Image Gallery - A CSS Grid-based gallery with auto-fit columns, consistent aspect-ratio image sizing, and a JavaScript-powered slideshow with smooth scroll navigation, debounced scroll syncing, and a slide counter.
+  - 🔍 Live Client-Side Search - A custom search system that dynamically queries gallery content from the DOM, renders a positioned dropdown with highlighted matched text, and handles keyboard shortcuts (Escape to close) and outside-click dismissal.
+  - 🎨 CSS Architecture - Makes extensive use of CSS custom properties, clamp() for fluid typography, min() for adaptive spacing, and structured media queries at 400px, and 768px breakpoints for a consistent cross-device experience.
+
+    <a href = "https://github.com/RishabhSinghal04/Cosmos_Craft">
+    <img src="https://github.com/RishabhSinghal04/Cosmos_Craft/blob/main/img/screenshots/gallery_desktop_view.jpeg" alt="Cosmos Craft" width="500"/>
+    </a>
+---
+
+<span style="font-size: 1em; vertical-align: middle;"> Using </span>
 <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="24" align = "absmiddle"/> <img src="https://img.shields.io/static/v1?label=&message=Power%20BI&color=0096D7&style=for-the-badge&messageColor=ffffff" align = "absmiddle"/> &nbsp; 
 <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" width="24" align = "absmiddle"/> <img src="https://img.shields.io/static/v1?label=&message=Excel&color=217346&style=for-the-badge&messageColor=ffffff" align = "absmiddle"/> &nbsp; 
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="24" align = "absmiddle"/> <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=316192&style=for-the-badge&messageColor=ffffff" align = "absmiddle"/>                                                                                                                     
