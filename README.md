@@ -4,6 +4,27 @@
 ## 📂 Projects 
 
 <span style="font-size: 1em; vertical-align: middle;"> Using </span>
+<img src="https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=for-the-badge&messageColor=ffffff" align="absmiddle"/>
+<img src="https://img.shields.io/static/v1?label=&message=TailwindCSS&color=06B6D4&style=for-the-badge&messageColor=ffffff" align="absmiddle"/>
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&messageColor=000000" align="absmiddle"/>
+<img src="https://img.shields.io/badge/Flask-blue?style=for-the-badge" align="absmiddle"/>
+
+
+- ### [**Tic Tac Toe**](https://github.com/RishabhSinghal04/Tic_Tac_Toe)
+  <span style="font-size: 1em; vertical-align: middle;"> Website: *https://tic-tac-toe-90u6.onrender.com/* </span>
+
+  - 🎮 Built Tic Tac Toe — a configurable web game with AI opponents and 3x3/4x4/5x5 boards
+  - 🧠 Implemented a minimax AI with alpha-beta pruning, move ordering, and adaptive search depth
+  - 🐍 Backend powered by Flask, serving a custom REST endpoint for AI move calculations
+  - ⚡ Frontend built in vanilla JavaScript, split into focused modules for state, rules, and UI
+  - 🎨 Styled with Tailwind CSS for a responsive, mobile-friendly layout
+
+    <a href = "https://github.com/RishabhSinghal04/Tic_Tac_Toe">
+    <img src="https://github.com/RishabhSinghal04/Tic_Tac_Toe/blob/main/screenshots/screenshot_1.jpeg" alt="Tic Tac Toe Game" width="500"/>
+    </a>
+---
+
+<span style="font-size: 1em; vertical-align: middle;"> Using </span>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="24" align = "absmiddle"/> 
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&messageColor=ffffff" align = "absmiddle"/>
 
